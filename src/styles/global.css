@@ -1,0 +1,18 @@
+/*
+$base-color: #a1ceff;
+$color: rgba(black, 0.88);
+
+body {
+  background-color: $base-color;
+  color: $color;
+}
+*/
+
+body {
+  margin: 0;
+  font-family: "Quicksand", sans-serif;
+}
+
+.title {
+  text-align: center;
+}
