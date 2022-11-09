@@ -30,6 +30,6 @@ En esta app puedes encontrar y listar productos desde la API y tambien puedes ag
 
 ## Work progress' Screenshots
 
-<h3> You can find more screenshots in <a title="ScreensShots Folder" href="https://github.com/jsegovialightit/reactshop/tree/main/screenshots" target="_blank">ScreensShots Folder</a></h3>
+<h3> You can find more in <a title="ScreensShots Folder" href="https://github.com/jsegovialightit/reactshop/tree/main/screenshots" target="_blank">ScreensShots Folder</a></h3>
 
 <img src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/01.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/01.png" style="width: 1000px;">
