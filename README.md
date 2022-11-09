@@ -1,3 +1,3 @@
 A React app
 
-Try it on https://joasegovia9427.github.io/reactshop/
+Try it on https://jsegovialightit.github.io/reactshop/
